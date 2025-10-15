@@ -1,24 +1,3 @@
-Objective:
-You are working with student marks data and need to prepare and organize it using NumPy arrays.Your goal is to create, modify, and analyze the data efficiently without using any external libraries.
-
-🧠 Project Description:
-A school has recorded the marks of several students in different subjects.You are required to design a NumPy-based solution to store, manage, and process this data.Your tasks involve creating arrays, changing their shapes, combining data, performing modifications, and analyzing patterns — all using NumPy.
-
-📋 Project Tasks:
-**Data Creation:**Create suitable arrays to represent students, subjects, and their marks.
-
-**Data Exploration:**Explore the properties of these arrays — such as their dimensions, size, and structure.
-
-**Data Transformation:**Perform necessary reshaping and reorganization of the data to suit various operations.
-
-**Data Combination:**Merge or split arrays to simulate adding new students, new subjects, or reorganizing the dataset.
-
-**Data Modification:**Apply operations to update marks, remove data, or identify unique information.
-
-**Data Type Handling:**Demonstrate how the same data can exist in different data types and how changes affect results.
-
-**Copy and View Behavior:**Show the difference between creating a full copy of an array and creating a view of the same data.
-
 📚 Student Marks Management System - NumPy Tutorial
 Python NumPy Jupyter
 
@@ -53,7 +32,7 @@ Jupyter Notebook or JupyterLab
 NumPy library
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/numpy-student-marks-management.git
+git clone https://github.com/Rickshifemina/numpy-student-marks-management.git
 cd numpy-student-marks-management
 Install dependencies:
 pip install numpy jupyter
@@ -77,12 +56,12 @@ Select Python kernel and run cells
 📊 Sample Output
 The notebook analyzes marks for 6 students across 4 subjects:
 
-Students: Alice, Bob, Charlie, Diana, Eve, Frank
-Subjects: Math, Physics, Chemistry, Biology
+Students: Alia, Riya, Ram, Priya, Eve, Don
+Subjects:Physics,Chemistry,Eniglish,Maths
 Example Analysis:
 
 Average marks per student: [85.75 70.5  91.25 68.75 87.5  79.  ]
-Top performing student: Charlie
+Top performing student: Ram
 Average score: 91.25
 
 Subject with highest average: Math
@@ -158,11 +137,11 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Your Name
+Rickshi Femina
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
+GitHub: https://github.com/Rickshifemina
+LinkedIn: www.linkedin.com/in/rickshi-femina
+Email: rickshi2526@gmail.com
 🙏 Acknowledgments
 NumPy documentation and community
 Jupyter Project for the amazing notebook interface
@@ -189,5 +168,6 @@ Restart the kernel and run again
 ⭐ If you find this notebook helpful, please consider giving it a star!
 
 📧 Questions or suggestions? Open an issue or reach out!
+
 
 Happy Learning! 🎓
